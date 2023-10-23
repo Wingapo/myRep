@@ -1,2 +1,2 @@
-line1
-line2
+edited line1
+edited line2
